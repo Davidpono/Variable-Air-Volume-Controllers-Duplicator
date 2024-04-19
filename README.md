@@ -1,6 +1,5 @@
 # Variable-Air-Volume-Controllers-Duplicator
 
-# Spreadsheets Read Me
 
 ## Overview
 This repository contains spreadsheets and Python scripts for controlling VAV (Variable Air Volume) systems. These templates and scripts facilitate various control functionalities including cooling only, staged heating, and SCR (Silicon-Controlled Rectifier) control.
